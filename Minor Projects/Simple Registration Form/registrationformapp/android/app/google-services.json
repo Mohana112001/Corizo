@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172195863546",
+    "project_id": "registrationform-98335",
+    "storage_bucket": "registrationform-98335.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172195863546:android:ff4d83ab6f5f7e05292243",
+        "android_client_info": {
+          "package_name": "com.microsoft.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uTbl4xaa2SSDKMLogawj6mcWcT5Q8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
